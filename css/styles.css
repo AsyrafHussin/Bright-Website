@@ -1,0 +1,13 @@
+body {
+    background: #eceff1;
+    font-family: 'Roboto';font-size: 22px;
+}
+
+.padding-container{
+   padding-top: 10%;
+}
+
+.doc-text{
+    color:green;
+    margin-top:3%;
+}
