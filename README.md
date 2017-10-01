@@ -1,4 +1,4 @@
-# Bright-Website
+# Bright-Website [Work In Progress]
 This is the repository for the Bright Framework website at [brightframework.psm.my](https://brightframework.psm.my)
 
 ## Contributing
